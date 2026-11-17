@@ -7,7 +7,7 @@ Aplicación web y móvil para apoyar al Dungeon Master durante sus partidas de D
 
 ## 🔗 Enlaces
 
-- **App web (Vercel):** https://TU-PROYECTO.vercel.app
+- **App web (Vercel):** https://dnd-dm-toolkit-black.vercel.app
 - **APK Android:** [Releases → v1.0.0](../../releases/tag/v1.0.0)
 
 ## ⚔️ Módulos
