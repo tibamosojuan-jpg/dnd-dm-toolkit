@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DM Toolkit</string>
+    <string name="title_activity_main">DM Toolkit</string>
+    <string name="package_name">com.tibamoso.dndtoolkit</string>
+    <string name="custom_url_scheme">com.tibamoso.dndtoolkit</string>
+</resources>
